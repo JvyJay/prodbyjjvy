@@ -5,14 +5,13 @@
 </template>
 
 <script>
-import Navbar from './components/Navbar.vue'
+import Navbar from "./components/Navbar.vue";
 export default {
   components: {
-    Navbar
-  }
-}
+    Navbar,
+  },
+};
 </script>
-
 
 <style>
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap");

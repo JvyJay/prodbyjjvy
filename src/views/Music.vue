@@ -35,8 +35,8 @@ import img1 from "../assets/Focus.jpg";
 import img2 from "../assets/HM.png";
 import img3 from "../assets/Catharsis.jpg";
 import img4 from "../assets/VA2.jpg";
-import img5 from '../assets/WW.jpg';
-import img6 from '../assets/Vanity.jpg';
+import img5 from "../assets/WW.jpg";
+import img6 from "../assets/Vanity.jpg";
 
 // Social Media Icons
 import icon1 from "../assets/Spotify.svg";
@@ -49,7 +49,7 @@ export default {
   components: {
     TrackItem1,
     TrackItem2,
-    Footer
+    Footer,
   },
   data() {
     return {
@@ -74,8 +74,8 @@ export default {
               platform: "Stream on Soundcloud",
               style: "orange",
               icon: icon3,
-            }
-          ]
+            },
+          ],
         },
         {
           id: 1,
@@ -156,8 +156,7 @@ export default {
           links: [
             {
               id: 1,
-              link:
-                "https://open.spotify.com/album/2QlSW6N3wDwVH3lijuwSkD?si=vgVvLw1DQTWkot--At-OHA",
+              link: "https://open.spotify.com/album/2QlSW6N3wDwVH3lijuwSkD?si=vgVvLw1DQTWkot--At-OHA",
               platform: "Stream on Spotify",
               style: "green",
               icon: icon1,
@@ -194,8 +193,7 @@ export default {
           links: [
             {
               id: 1,
-              link:
-                "https://open.spotify.com/album/61JbbfPm7Srov7DaUVbdnX?si=sT9OOwpVRziL7Lwc2j3jVQ",
+              link: "https://open.spotify.com/album/61JbbfPm7Srov7DaUVbdnX?si=sT9OOwpVRziL7Lwc2j3jVQ",
               platform: "Stream on Spotify",
               style: "green",
               icon: icon1,
@@ -332,4 +330,3 @@ export default {
   }
 }
 </style>
-
