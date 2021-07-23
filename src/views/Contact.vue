@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 <template>
   <transition
     :duration="{ enter: 500, leave: 0 }"

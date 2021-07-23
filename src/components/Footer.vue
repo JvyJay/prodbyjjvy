@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 <template>
   <div>
     <footer class="bd-footer">
@@ -79,7 +80,6 @@ export default Vue.component("Footer", {
 </script>
 
 <style scoped>
-
 .container {
   display: flex;
   flex-direction: row;
