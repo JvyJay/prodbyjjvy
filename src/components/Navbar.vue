@@ -3,7 +3,7 @@
   <div>
     <b-navbar toggleable="lg" type="dark">
       <b-navbar-brand>
-        <!-- <img src="..\assets\jjvy-logo.png" alt="Logo" width="35" /> -->
+        <img src="..\assets\jjvy-logo.png" alt="Logo" width="35" />
         JJVY
       </b-navbar-brand>
 
